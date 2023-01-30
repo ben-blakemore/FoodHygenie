@@ -1,0 +1,4 @@
+endpoint for ratings = https://api.ratings.food.gov.uk/Ratings
+to search for ratingIds, add pararmeter in postman for "ratingId" and give value e.g. 2
+
+Each different search criteria has its own endpoint. The goc documentation is not very good at explaining this
